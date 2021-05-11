@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/metarial-ui/static/css/main.ba4f853a.chunk.css",
+    "main.js": "/metarial-ui/static/js/main.a63f8e3d.chunk.js",
+    "main.js.map": "/metarial-ui/static/js/main.a63f8e3d.chunk.js.map",
+    "runtime-main.js": "/metarial-ui/static/js/runtime-main.b8c28b0a.js",
+    "runtime-main.js.map": "/metarial-ui/static/js/runtime-main.b8c28b0a.js.map",
+    "static/js/2.95f87fbd.chunk.js": "/metarial-ui/static/js/2.95f87fbd.chunk.js",
+    "static/js/2.95f87fbd.chunk.js.map": "/metarial-ui/static/js/2.95f87fbd.chunk.js.map",
+    "static/js/3.e89cac3e.chunk.js": "/metarial-ui/static/js/3.e89cac3e.chunk.js",
+    "static/js/3.e89cac3e.chunk.js.map": "/metarial-ui/static/js/3.e89cac3e.chunk.js.map",
+    "index.html": "/metarial-ui/index.html",
+    "static/css/main.ba4f853a.chunk.css.map": "/metarial-ui/static/css/main.ba4f853a.chunk.css.map",
+    "static/js/2.95f87fbd.chunk.js.LICENSE.txt": "/metarial-ui/static/js/2.95f87fbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8c28b0a.js",
+    "static/js/2.95f87fbd.chunk.js",
+    "static/css/main.ba4f853a.chunk.css",
+    "static/js/main.a63f8e3d.chunk.js"
+  ]
+}
